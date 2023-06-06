@@ -14,13 +14,13 @@ Grapher is a project that allows visualizing and traversing graphs using towers 
 
 Here are some screenshots that illustrate the interface and algorithms in action:
 
-![DFS](path/to/dfs-image.png)
+![DFS](resources/GrapherDFS.PNG)
 *DFS (Depth-First Search) traversal on the graph.*
 
-![BFS](path/to/bfs-image.png)
+![BFS](resources/GrapherBFS.PNG)
 *BFS (Breadth-First Search) traversal on the graph.*
 
-![Kruskal](path/to/kruskal-image.png)
+![Kruskal](resources/GrapherKrus.PNG)
 *Shortest path found using Kruskal's algorithm.*
 
 ## System Requirements
