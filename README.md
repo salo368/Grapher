@@ -10,7 +10,7 @@ Grapher is a project that allows visualizing and traversing graphs using towers 
 - Utilization of Kruskal's algorithm to find the shortest path.
 - Intuitive graphical interface to interact with graphs and execute algorithms.
 
-## Screenshots
+## Visuals
 
 Here are some screenshots that illustrate the interface and algorithms in action:
 
