@@ -1,5 +1,5 @@
 # Grapher
-Visual graphs DFS, BFS, Kruskal algorithms in Java
+Visual graphs and DFS, BFS, Kruskal algorithms in Java
 
 Grapher is a project that allows visualizing and traversing graphs using towers and cables to represent nodes and edges. This project is developed in Java with Java Swing and utilizes the DFS (Depth-First Search) and BFS (Breadth-First Search) algorithms, as well as the Kruskal's algorithm to find the shortest path that connects all nodes.
 
