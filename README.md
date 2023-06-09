@@ -12,7 +12,7 @@ Grapher is a project that allows visualizing and traversing graphs using towers 
 
 ## Visuals
 
-Here are some screenshots that illustrate the interface and algorithms in action:
+Here are some visuals that illustrate the interface and algorithms in action:
 
 <div >DFS (Depth-First Search) traversal on the graph:</div>
 
