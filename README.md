@@ -1,5 +1,5 @@
 # Grapher
-<a href="https://github.com/salo368/Grapher/blob/main/README_Spa.md">(View spanish version)</a>
+<a href="https://github.com/salo368/Grapher/blob/main/README_Spa.md">(Versión español)</a>
 
 Visual graphs and DFS, BFS, Kruskal algorithms in Java
 
